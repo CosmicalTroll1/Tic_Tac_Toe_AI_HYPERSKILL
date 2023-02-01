@@ -11,3 +11,8 @@ start medium user
 start hard hard 
 to exit simply write:
 exit
+
+. The following represents the Matrix and the respective positions where the game is played . (simply input x y corresponding to the position while playing)
+  (1, 1) |  (1, 2) | (1, 3)
+  (2, 1) |  (2, 2) | (2, 3)
+  (3, 1) |  (3, 2) | (3, 3)
